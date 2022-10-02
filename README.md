@@ -6,4 +6,5 @@ The code is made in the OOP style.
 Код выполнен в стиле ООП.
 # Реализация на UNITY
 - Как выглядит этот код в 3d пространстве:  
+  
 ![ezgif-3-f1eea79335](https://user-images.githubusercontent.com/45320521/193470588-f805b539-19b2-456d-9220-86aae5717022.gif)
